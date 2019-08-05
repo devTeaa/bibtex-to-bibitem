@@ -1,29 +1,29 @@
-# README #
+# Script to convert LATEX reference from .bib file format to bibitem format.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## About
 
-### What is this repository for? ###
+Author: Leen Remmelzwaal
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Written: August 2019
 
-### How do I get set up? ###
+License: CC BY
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Description
 
-### Contribution guidelines ###
+A Windows BAT script to convert  run NMF deconstruction and reconstruction on the MNIST dataset.
 
-* Writing tests
-* Code review
-* Other guidelines
+## Getting Started
 
-### Who do I talk to? ###
+Install Latex editor for Windows.
 
-* Repo owner or admin
-* Other community or team contact
+## Getting Started
+
+Copy the contents of your document's .bib file into the refs.bib file in the repository.
+
+Double click the file convert.bat
+
+The results will appear in the file: dummy.bbl
+
+## Acknowledgement
+
+Source: https://tex.stackexchange.com/questions/124874/converting-to-bibitem-in-latex
