@@ -1,9 +1,11 @@
-latex dummy
-bibtex dummy
-bibtex dummy
-latex dummy
+latex main
+bibtex main
+bibtex main
+latex main
 
-del dummy.aux 
-del dummy.blg
-del dummy.dvi 
-del dummy.log 
+del main.aux
+del main.blg
+del main.dvi
+del main.log
+
+rename main.bbl output.bbl
