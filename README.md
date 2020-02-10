@@ -1,4 +1,8 @@
+# Original credit to [Leen Remmelzwaal](https://github.com/leenremm) ([original code](https://bitbucket.org/leenremm/latex-bibitem-converter/src/master/))
+
 # Script to convert LATEX reference from .bib file format to bibitem format.
+
+You need to have latex installed, [download here](https://miktex.org/download)
 
 ## About
 
